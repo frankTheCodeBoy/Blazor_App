@@ -19,7 +19,7 @@ Welcome to **EventEase** – your modern solution for managing and discovering e
 ### 1. **Clone the Repository**
 
 ```sh
-git clone [https://github.com/yourusername/EventEase.git](https://github.com/frankTheCodeBoy/Blazor_App)
+git clone https://github.com/frankTheCodeBoy/Blazor_App.git
 cd EventEase
 ```
 
