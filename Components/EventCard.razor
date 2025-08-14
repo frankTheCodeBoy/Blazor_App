@@ -1,0 +1,22 @@
+@using EventEase.Models
+@code {
+    [Parameter]
+    public Event? Event { get; set; }
+}
+
+<div class="event-card">
+    <h3>@Event?.Name</h3>
+    <p><strong>Date:</strong> @Event?.Date.ToString("dd MMM yyyy")</p>
+    <p><strong>Location:</strong> @Event?.Location</p>
+    <p>@Event?.Description</p>
+</div>
+
+<style>
+    .event-card {
+        border: 1px solid #ccc;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+    }
+</style>

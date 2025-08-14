@@ -1,0 +1,39 @@
+@page "/events/{Id:int}"
+@using EventEase.Models
+@inject EventService EventService
+@inject NavigationManager NavigationManager
+
+<h2>Event Details</h2>
+
+@if (eventDetails == null)
+{
+    <p>Loading event details...</p>
+}
+else
+{
+     <div class="event-details">
+        <h3>@eventDetails.Name</h3>
+        <p><strong>Date:</strong> @eventDetails.Date.ToString("MMMM dd, yyyy")</p>
+        <p><strong>Location:</strong> @eventDetails.Location</p>
+        <!-- Remove or update the line below if you add a Description property later -->
+        <!-- <p>@eventDetails.Description</p> -->
+        <button @onclick="GoBack">Back to Events</button>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    private Event? eventDetails;
+
+    protected override async Task OnInitializedAsync()
+    {
+        eventDetails = await EventService.GetEventByIdAsync(id);
+    }
+
+    private void GoBack()
+    {
+        NavigationManager.NavigateTo("/events");
+    }
+}
