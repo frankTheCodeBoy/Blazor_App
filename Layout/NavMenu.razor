@@ -1,13 +1,4 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="">EventEase</a>
-        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-    </div>
-</div>
-
-<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+﻿<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
     <nav class="nav flex-column">
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
@@ -20,13 +11,24 @@
             </NavLink>
         </div>
         <div class="nav-item px-3">
+            <NavLink class="nav-link" href="events">
+                <span class="bi bi-calendar-event-fill-nav-menu" aria-hidden="true"></span> Events
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="register">
+                <span class="bi bi-person-fill-nav-menu" aria-hidden="true"></span> Register
+            </NavLink>
+        </div>
+        @* Comment out or remove Weather if it causes errors
+        <div class="nav-item px-3">
             <NavLink class="nav-link" href="weather">
                 <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
             </NavLink>
         </div>
+        *@
     </nav>
 </div>
-
 @code {
     private bool collapseNavMenu = true;
 

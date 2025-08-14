@@ -199,6 +199,8 @@ C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\dotnet.runt
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
+C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.84puqfxtk0.wasm
+C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.xjv2apb3bi.pdb
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.tnyc7xpluy.wasm.gz
@@ -401,6 +403,8 @@ C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\dotnet.runt
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
+C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.84puqfxtk0.wasm.gz
+C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.xjv2apb3bi.pdb.gz
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\EventEase.staticwebassets.runtime.json
 C:\Users\Administrator\EventEase\bin\Debug\net9.0\EventEase.staticwebassets.endpoints.json
@@ -613,6 +617,7 @@ C:\Users\Administrator\EventEase\obj\Debug\net9.0\EventEase.AssemblyInfoInputs.c
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\EventEase.AssemblyInfo.cs
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\EventEase.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\EventEase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\EventEase\obj\Debug\net9.0\EventEase.sourcelink.json
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -1064,6 +1069,9 @@ C:\Users\Administrator\EventEase\obj\Debug\net9.0\compressed\2cv14cvn0i-i8ixevln
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\compressed\75trfcm43w-tjcz0u77k5.gz
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\compressed\lfiq0gid4h-tptq2av103.gz
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\compressed\y62acmnqwm-lfu7j35m59.gz
+C:\Users\Administrator\EventEase\obj\Debug\net9.0\compressed\gqx5ofl3a7-84puqfxtk0.gz
+C:\Users\Administrator\EventEase\obj\Debug\net9.0\compressed\lw84d9mf51-xjv2apb3bi.gz
+C:\Users\Administrator\EventEase\obj\Debug\net9.0\compressed\pqrel3z3dc-xt7rx68z2n.gz
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\staticwebassets.development.json
@@ -1073,10 +1081,3 @@ C:\Users\Administrator\EventEase\obj\Debug\net9.0\EventEase.dll
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\refint\EventEase.dll
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\EventEase.pdb
 C:\Users\Administrator\EventEase\obj\Debug\net9.0\ref\EventEase.dll
-C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.dr4ql7o679.wasm
-C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.pq40aknirs.pdb
-C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.dr4ql7o679.wasm.gz
-C:\Users\Administrator\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.pq40aknirs.pdb.gz
-C:\Users\Administrator\EventEase\obj\Debug\net9.0\compressed\gqx5ofl3a7-dr4ql7o679.gz
-C:\Users\Administrator\EventEase\obj\Debug\net9.0\compressed\lw84d9mf51-pq40aknirs.gz
-C:\Users\Administrator\EventEase\obj\Debug\net9.0\compressed\pqrel3z3dc-uysyulewww.gz
