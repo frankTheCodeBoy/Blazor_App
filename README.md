@@ -95,4 +95,4 @@ If you like this project, please ⭐️ the repo and share it!
 
 ---
 
-> _Made with ❤️ using
+> _Made with ❤️ using Blazor WebAssembly_
