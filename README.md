@@ -59,7 +59,7 @@ EventEase/
 ├── Layout/             # Layout and navigation
 ├── Models/             # Data models (e.g., Event.cs)
 ├── Pages/              # Blazor pages (Home, Events, Register, etc.)
-├── Services/           # Service classes (add your business logic here)
+├── Services/           # Service classes (main business logic here)
 ├── wwwroot/            # Static assets (CSS, JS, images)
 ├── App.razor           # App root
 ├── Program.cs          # App entry point
