@@ -85,7 +85,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 - [Bootstrap](https://getbootstrap.com/)
-- [Font Awesome](https://fontawesome.com/) (if used)
+- [Font Awesome](https://fontawesome.com/)
 
 ---
 
